@@ -1,0 +1,6 @@
+# library folder
+libraries/*
+
+.dropbox.attr
+*.swp
+*~
