@@ -50,7 +50,7 @@ void setup()
   
 void loop()
 {
-  stepper.setSpeed(160);
+  stepper.setSpeed(150);
   stepper.runSpeed();
 }
 
